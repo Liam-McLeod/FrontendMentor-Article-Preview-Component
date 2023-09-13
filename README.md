@@ -17,8 +17,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-jdflixwjju)
-- [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-NFT-Preview-Card-Component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/article-preview-component-GNcmrFBGHW)
+- [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Article-Preview-Component/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
